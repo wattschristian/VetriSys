@@ -1,11 +1,13 @@
 # 🐾 VetriSys — Veterinary Clinic Management Software
 
+## Powering Compassionate Care
+
 VetriSys is a modern, full-featured veterinary clinic management system designed for offline-first use in desktop environments, with seamless cloud scalability in the future.
-This is the MVP version, built for easy local development and demo as a portfolio project. 
+This is the MVP version, built for easy local development and demo as a portfolio project.
 
 ---
 
-## 🚀 Features (MVP)
+## Features (MVP)
 
 - 📋 Client & Patient Management
 - 🗓️ Appointment Scheduling
@@ -15,7 +17,7 @@ This is the MVP version, built for easy local development and demo as a portfoli
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 | Layer        | Stack                           |
 |--------------|---------------------------------|
